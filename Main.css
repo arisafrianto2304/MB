@@ -2676,12 +2676,12 @@ div.entry-content{
 
 
 @import url('https://fonts.googleapis.com/css2?family=Bona+Nova&display=swap');
-@font-face{font-family: "Antenna-Black"; src: url("../css/fonts/Antenna-Black.otf") format('truetype'); }
-@font-face{font-family: "Antenna-Bold"; src: url("../css/fonts/Antenna-Bold.otf") format('truetype');}
-@font-face{font-family: "Antenna-Medium"; src: url("../css/fonts/Antenna-Medium.otf") format('truetype');}
-@font-face{font-family: "Antenna-Regular"; src: url("../css/fonts/Antenna-Regular.otf") format('truetype');}
-@font-face{font-family: "TrajanPro3-Bold"; src: url("../css/fonts/TrajanPro3-Bold.otf") format('truetype');}
-@font-face{ font-family: "TrajanPro3-Regular"; src: url("../css/fonts/TrajanPro3-Regular.otf") format('truetype');}
+@font-face{font-family: "Antenna-Black"; src: url("Antenna-Black.otf") format('truetype'); }
+@font-face{font-family: "Antenna-Bold"; src: url("Antenna-Bold.otf") format('truetype');}
+@font-face{font-family: "Antenna-Medium"; src: url("Antenna-Medium.otf") format('truetype');}
+@font-face{font-family: "Antenna-Regular"; src: url("Antenna-Regular.otf") format('truetype');}
+@font-face{font-family: "TrajanPro3-Bold"; src: url("TrajanPro3-Bold.otf") format('truetype');}
+@font-face{ font-family: "TrajanPro3-Regular"; src: url("TrajanPro3-Regular.otf") format('truetype');}
 
 .font_trajanReg{
 	font-family: 'TrajanPro3-Regular';
